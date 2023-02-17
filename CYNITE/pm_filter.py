@@ -140,7 +140,7 @@ async def next_page(bot, query):
                 [
                     InlineKeyboardButton(f'𝐄𝐧𝐠𝐥𝐢𝐬𝐡 𝐦𝐨𝐯𝐢𝐞', url='https://t.me/+hiD_AvUYUVtjMTNl'),
                     InlineKeyboardButton(f'18+ adult channel 🥵', url='https://t.me/+LC3GZ8HoeM0zMmZl'),
-                    InlineKeyboardButton(f'web-series', url'https://t.me/WEBSERIES_JN')
+                    InlineKeyboardButton(f'web-series', url='https://t.me/WEBSERIES_JN')
                 ]
             )
 
@@ -976,7 +976,7 @@ async def auto_filter(client, msg, spoll=False):
                 [
                     InlineKeyboardButton(f'𝐄𝐧𝐠𝐥𝐢𝐬𝐡 𝐦𝐨𝐯𝐢𝐞', url='https://t.me/+hiD_AvUYUVtjMTNl'),
                     InlineKeyboardButton(f'18+ adult channel 🥵', url='https://t.me/+LC3GZ8HoeM0zMmZl'),
-                    InlineKeyboardButton(f'web-series', url'https://t.me/WEBSERIES_JN')
+                    InlineKeyboardButton(f'web-series', url='https://t.me/WEBSERIES_JN')
                 ]
             )
 
